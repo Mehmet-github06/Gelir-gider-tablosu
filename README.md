@@ -4,7 +4,7 @@ This project is a simple web application for tracking monthly income and expense
 ## Screenshots
 
 ![Screenshot of the Block Page](./Screenshot_2.jpg)
-![Screenshot of the Block Page](./assent/Screenshot_1.jpg)
+
 
 ## Technologies Used
 
@@ -15,7 +15,7 @@ This project is a simple web application for tracking monthly income and expense
 
 ## Live Demo
 
-[Live Demo](https://example.com)
+[Live Demo](https://gelir-gider-tablosu.vercel.app/)
 
 ## Project Overview
 
